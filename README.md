@@ -12,5 +12,5 @@ The preferred way to install this extension is through composer.
 
 Either run
 <code>
-php composer.phar require --prefer-dist xr0m3oz/yii2-curl*"
+php composer.phar require --prefer-dist xr0m3oz/yii2-curl "*"
 </code>
