@@ -5,6 +5,7 @@
     "homepage": "https://github.com/xr0m3oz",
     "type": "yii2-extension",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Shtepa Roman",
