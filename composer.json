@@ -4,7 +4,7 @@
     "keywords": ["yii", "yii2", "extension", "Curl"],
     "homepage": "https://github.com/xr0m3oz",
     "type": "yii2-extension",
-    "license": "BSD 3-Clause",
+    "license": "MIT",
     "authors": [
         {
             "name": "Shtepa Roman",
